@@ -5,7 +5,7 @@
     ./bufferlines
     ./colorschemes
     ./completion
-    ./dap
+#    ./dap
     ./filetrees
     ./git
     ./keys.nix
@@ -20,6 +20,7 @@
     ./ui
     ./utils
   ];
+kjerkngjsjknkjsef
 
   bufferlines.enable = lib.mkDefault true;
   colorschemes.enable = lib.mkDefault true;
