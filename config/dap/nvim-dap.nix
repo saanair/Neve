@@ -47,9 +47,9 @@
           };
         };
       };
-      dap-python = {
-        enable = true;
-      };
+#      dap-python = {
+#        enable = true;
+#      };
     };
     keymaps = [
       {
